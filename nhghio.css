@@ -5,6 +5,8 @@
 a {
   color: cornflowerblue;
   text-decoration: none;
+  text-align:center;
+  font-family: 'Raleway', sans-serif;
 }
 
 img {
@@ -21,8 +23,11 @@ img.center {
 
 h1, h2, h3 {
   text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 100;
 }
 
 p {
   text-align:center;
+  font-family: 'Raleway', sans-serif;
 }
